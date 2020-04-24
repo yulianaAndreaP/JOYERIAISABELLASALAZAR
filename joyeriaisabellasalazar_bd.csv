@@ -1,0 +1,31 @@
+idcategoria;Codigo;Nombre;Descripcion;;;;;
+1;JIS003;Relojeria;categoría de Relojes ;;;;;
+2;JIS004;Aretas;Categoría de Aretas;;;;;
+3;JIS005;Pendientes;Categoría de pendientes;;;;;
+4;JIS006;Pulseras;Categoría de Pulseras;;;;;
+5;JIS007;Anillos;Categoría de Anillos;;;;;
+6;JIS008;Collares;Categoría de collares;;;;;
+idOrden;idProducto;idUsuario;Fecha;;;;;
+1;1;1;22/04/2020;;;;;
+2;2;0;23/04/2020;;;;;
+3;3;3;21/04/2020;;;;;
+4;4;4;15/04/2020;;;;;
+5;5;5;10/04/2020;;;;;
+idProducto;idCategoria;Nombre;Descripcion;Precio;;;;
+1;1;Cadena Oro;;450000;;;;
+2;2;Pulsera Plata;;55000;;;;
+3;3;Anillo Oro;;250000;;;;
+4;4;Reloj Murano;;120000;;;;
+5;5;collar acero ;;65000;;;;
+idRol;Codigo;Nombre;;;;;;
+1;JIS001;Administrador;;;;;;
+2;JIS002;Cliente;;;;;;
+3;JIS003;Proveedor;;;;;;
+4;JIS013;Usuario;;;;;;
+5;JIS014;Comprador;;;;;;
+idUsuario;idRol;Nombre;Password;Nombres;Apellidos;Telefono;Direccion;Email
+1;1;yuliana;1234;yuliana Andrea;Paniagua Bravo;2639814;calle 76 50 61 ;yulapani@gmail.com
+2;2;Isabella ;2407;Isabella;Salazar Paniagua;3002588998;calle 76 50 21;isabellasalazar@gmail.com
+3;3;Diego ;2306;Diego Armando ;Rojas Ortiz;3002587890;cra 45 8 49 ;diegorojas@gmail.com
+4;4;Juan;502;Juan alejandro;Paniagua ;2588310;calle 102 49c 10;juanalejandro@gmail.com
+5;5;Lina;3103;Lina Maria;Zapata mejia;3102547632;calle 83 No 49 25;linazapata@gmail.com
